@@ -1,0 +1,61 @@
+/*--------------------------------------------------------------
+	Common
+--------------------------------------------------------------*/
+html {
+    overflow-y: scroll;
+    overflow-x: hidden;
+    -ms-overflow-style: scrollbar;
+  }
+  
+  header {
+   background: '#ffffff';
+   border-color: '#cccccc';
+   font-family: 'Georgia', Times, Times New Roman, serif;
+   }
+
+  body {
+   font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: '#777';
+  background-color:'#ffffff';
+  border-color:'dddddd';
+  width: '960px';
+  font-size: '18px';
+  }
+
+  footer{
+      background-color: '#666666';
+      border-top: 8px solid #4aaaa5;
+  }
+  
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  iframe {
+    border: 0;
+  }
+  
+  .align-center {
+    text-align: center;
+  }
+  
+  .align-left {
+    text-align: left !important;
+  }
+  
+  .position-relative {
+    position: relative;
+  }
+  
+  .leftauto {
+    right: 0 !important;
+    left: auto !important;
+  }
+  
+  h1,p,article {
+    color: '#777';,
+    background: '#ebebeb';
+  }
+  
+
